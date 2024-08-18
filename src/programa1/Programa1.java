@@ -17,7 +17,7 @@ public class Programa1 {
         // TODO code application logic here
         System.out.println("Hola mundo1");
         System.out.println("hola2");
-        
+        System.out.println("hola2"); 
     }
     
 }
